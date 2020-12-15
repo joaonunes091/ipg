@@ -9,3 +9,13 @@ h1{
 h2{
     color: darkred;
 }
+
+#estg{
+    background-color: lightgray;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.destaque{
+    background-color: green;
+}
