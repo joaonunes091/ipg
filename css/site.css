@@ -23,6 +23,7 @@ h2 {
 td, th{
     border: 1px solid black;
     padding: 4px;
+    text-align: center;
 }
 
 th{
@@ -32,4 +33,9 @@ th{
 
 table {
     border-collapse: collapse;
+}
+
+.test { 
+    list-style-type: square;
+/*    list-style: square;*/
 }
